@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
